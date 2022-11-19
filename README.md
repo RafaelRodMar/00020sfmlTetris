@@ -1,2 +1,2 @@
-# 00020sfmlTetris
-Tetris made with SFML.
+# tetris
+Tetris game 
